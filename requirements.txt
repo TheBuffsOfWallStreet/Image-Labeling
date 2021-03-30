@@ -1,0 +1,4 @@
+labelImg
+pymongo
+boto3
+pillow
